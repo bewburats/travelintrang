@@ -1,2 +1,3 @@
 # travelintrang
-webtravelintrang_bybew
+webtravel_bybew
+WEBTRAVEL_TRANG_BYBEW
